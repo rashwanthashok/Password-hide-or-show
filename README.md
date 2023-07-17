@@ -49,6 +49,10 @@ Enhance user experience by providing the option to show or hide passwords secure
 6. Straightforward code structure for easy modification and extension.
 
 7. Enhance password input usability and user privacy with this convenient feature.
+
+## Deployment status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/99686c17-ea0b-4aa7-9410-270c3e6cbed1/deploy-status)](https://app.netlify.com/sites/jsprojects14-password-hide/deploys)
 ## Contributing
 
 Contributions are always welcome!
