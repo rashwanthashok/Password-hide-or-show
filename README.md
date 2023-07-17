@@ -15,9 +15,8 @@ Password Hide/Show: Easily toggle password visibility with a click. Customize ey
 ## Demo
 
 Live Demo:
-
+https://rashwanthashok.github.io/Password-hide-or-show/
     
-    https://codesoftg.github.io/TGCodes-Password-Hide-show/
 ## Getting Started
 
 Password Hide/Show: A web application that allows users to toggle the visibility of a password field. Customize the design with different eye icons, font colors, and background styles. Easily integrate into your projects by following these steps:
